@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><html_body>&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+    &lt;head&gt;
+        &lt;meta charset="utf-8"&gt;
+        &lt;title&gt;
+                adidas Careers – Through sport, we have the power to change lives. All Job Openings
+        &lt;/title&gt;
+
+        &lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi"&gt;
+        &lt;meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"&gt;
+        
+        &lt;link rel="preload" href="/fonts/adihausdin-regular.woff" as="font" type="font/woff" crossorigin&gt;
+        &lt;link rel="preload" href="/fonts/adihausdin-bold.woff" as="font" type="font/woff" crossorigin&gt;
+        &lt;link rel="preload" href="/fonts/adihausdin-medium.woff" as="font" type="font/woff" crossorigin&gt;
+        &lt;link rel="preload" href="/fonts/adineuepro-bold.woff" as="font" type="font/woff" crossorigin&gt;
+        
+            &lt;meta itemprop="name" content="adidas Careers – Through sport, we have the power to change lives"&gt;
+
+            &lt;meta name="og:title" content="adidas Careers – Through sport, we have the power to change lives. All Job Openings"&gt;
+    
+    &lt;meta name="og:site_name" content="adidas Careers – Through sport, we have the power to change lives"&gt;
+    &lt;meta name="og:url" content="https%3A%2F%2Fcareers.adidas-group.com%2Fjobs%3Fbrand%3D"&gt;
+    &lt;meta name="og:locale" content="en_US"&gt;
+
+            &lt;meta name="image" content="https://careers.adidas-group.com/uploads/8194vkbSopZvGWMSODvIpNrRoELeJ2pASgkc8ikSqy67j5P7bihe80c7WS5j2ESE/share.jpg"&gt;
+        &lt;meta itemprop="image" content="https://careers.adidas-group.com/uploads/8194vkbSopZvGWMSODvIpNrRoELeJ2pASgkc8ikSqy67j5P7bihe80c7WS5j2ESE/share.jpg"&gt;
+        &lt;meta name="og:image" content="https://careers.adidas-group.com/uploads/8194vkbSopZvGWMSODvIpNrRoELeJ2pASgkc8ikSqy67j5P7bihe80c7WS5j2ESE/share.jpg"&gt;
+        &lt;meta name="og:image" content="https://careers.adidas-group.com/images/external/share-2.jpg"&gt;
+    &lt;meta name="og:image" content="https://careers.adidas-group.com/images/external/share-3.jpg"&gt;
+    &lt;meta name="og:image" content="https://careers.adidas-group.com/images/external/share-4.jpg"&gt;
+
+    
+    
+            &lt;meta name="description" content="Explore adidas careers now. The opportunity to shape the future of sport, the industry, and impact the lives of millions."&gt;
+        &lt;meta itemprop="description" content="Explore adidas careers now. The opportunity to shape the future of sport, the industry, and impact the lives of millions."&gt;
+        &lt;meta name="og:description" content="Explore adidas careers now. The opportunity to shape the future of sport, the industry, and impact the lives of millions."&gt;    
+    
+    &lt;meta name="fb:admins" content="207328272619841"&gt;
+    &lt;meta name="fb:app_id" content="204871596214504"&gt;
+    &lt;meta name="og:type" content="website"&gt;
+        &lt;link rel="apple-touch-icon" sizes="57x57" href="https://careers.adidas-group.com/images/apple-icon-57x57.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="60x60" href="https://careers.adidas-group.com/images/apple-icon-60x60.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="72x72" href="https://careers.adidas-group.com/images/apple-icon-72x72.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="76x76" href="https://careers.adidas-group.com/images/apple-icon-76x76.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="114x114" href="https://careers.adidas-group.com/images/apple-icon-114x114.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="120x120" href="https://careers.adidas-group.com/images/apple-icon-120x120.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="144x144" href="https://careers.adidas-group.com/images/apple-icon-144x144.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="152x152" href="https://careers.adidas-group.com/images/apple-icon-152x152.png"&gt;
+        &lt;link rel="apple-touch-icon" sizes="180x180" href="https://careers.adidas-group.com/images/apple-icon-180x180.png"&gt;
+        &lt;link rel="icon" type="image/png" sizes="192x192"  href="https://careers.adidas-group.com/images/android-icon-192x192.png"&gt;
+        &lt;link rel="icon" type="image/png" sizes="32x32" href="https://careers.adidas-group.com/images/favicon-32x32.png"&gt;
+        &lt;link rel="icon" type="image/png" sizes="96x96" href="https://careers.adidas-group.com/images/favicon-96x96.png"&gt;
+        &lt;link rel="icon" type="image/png" sizes="16x16" href="https://careers.adidas-group.com/images/favicon-16x16.png"&gt;
+        &lt;link rel="shortcut icon" href="https://careers.adidas-group.com/images/favicon.ico" type="image/x-icon"&gt;
+
+        &lt;script type="text/javascript"&gt;
+        window.ac = window.ac || {};
+        /*! modernizr 3.6.0 (Custom Build) | MIT *
+         * https://modernizr.com/download/?-backgroundcliptext-csstransforms3d-history-prefixed-prefixedcss-setclasses !*/
+        !function(e,n,t){function r(e,n){return typeof e===n}function o(){var e,n,t,o,i,s,a;for(var l in S)if(S.hasOwnProperty(l)){if(e=[],n=S[l],n.name&amp;&amp;(e.push(n.name.toLowerCase()),n.options&amp;&amp;n.options.aliases&amp;&amp;n.options.aliases.length))for(t=0;t&lt;n.options.aliases.length;t++)e.push(n.options.aliases[t].toLowerCase());for(o=r(n.fn,"function")?n.fn():n.fn,i=0;i&lt;e.length;i++)s=e[i],a=s.split("."),1===a.length?Modernizr[a[0]]=o:(!Modernizr[a[0]]||Modernizr[a[0]]instanceof Boolean||(Modernizr[a[0]]=new Boolean(Modernizr[a[0]])),Modernizr[a[0]][a[1]]=o),C.push((o?"":"no-")+a.join("-"))}}function i(e){var n=w.className,t=Modernizr._config.classPrefix||"";if(_&amp;&amp;(n=n.baseVal),Modernizr._config.enableJSClass){var r=new RegExp("(^|\\s)"+t+"no-js(\\s|$)");n=n.replace(r,"$1"+t+"js$2")}Modernizr._config.enableClasses&amp;&amp;(n+=" "+t+e.join(" "+t),_?w.className.baseVal=n:w.className=n)}function s(e){return e.replace(/([a-z])-([a-z])/g,function(e,n,t){return n+t.toUpperCase()}).replace(/^-/,"")}function a(e){return e.replace(/([A-Z])/g,function(e,n){return"-"+n.toLowerCase()}).replace(/^ms-/,"-ms-")}function l(){return"function"!=typeof n.createElement?n.createElement(arguments[0]):_?n.createElementNS.call(n,"http://www.w3.org/2000/svg",arguments[0]):n.createElement.apply(n,arguments)}function f(e,n){return!!~(""+e).indexOf(n)}function u(e,n){return function(){return e.apply(n,arguments)}}function d(e,n,t){var o;for(var i in e)if(e[i]in n)return t===!1?e[i]:(o=n[e[i]],r(o,"function")?u(o,t||n):o);return!1}function p(n,t,r){var o;if("getComputedStyle"in e){o=getComputedStyle.call(e,n,t);var i=e.console;if(null!==o)r&amp;&amp;(o=o.getPropertyValue(r));else if(i){var s=i.error?"error":"log";i[s].call(i,"getComputedStyle returning null, its possible modernizr test results are inaccurate")}}else o=!t&amp;&amp;n.currentStyle&amp;&amp;n.currentStyle[r];return o}function c(){var e=n.body;return e||(e=l(_?"svg":"body"),e.fake=!0),e}function m(e,t,r,o){var i,s,a,f,u="modernizr",d=l("div"),p=c();if(parseInt(r,10))for(;r--;)a=l("div"),a.id=o?o[r]:u+(r+1),d.appendChild(a);return i=l("style"),i.type="text/css",i.id="s"+u,(p.fake?p:d).appendChild(i),p.appendChild(d),i.styleSheet?i.styleSheet.cssText=e:i.appendChild(n.createTextNode(e)),d.id=u,p.fake&amp;&amp;(p.style.background="",p.style.overflow="hidden",f=w.style.overflow,w.style.overflow="hidden",w.appendChild(p)),s=t(d,e),p.fake?(p.parentNode.removeChild(p),w.style.overflow=f,w.offsetHeight):d.parentNode.removeChild(d),!!s}function v(n,r){var o=n.length;if("CSS"in e&amp;&amp;"supports"in e.CSS){for(;o--;)if(e.CSS.supports(a(n[o]),r))return!0;return!1}if("CSSSupportsRule"in e){for(var i=[];o--;)i.push("("+a(n[o])+":"+r+")");return i=i.join(" or "),m("@supports ("+i+") { #modernizr { position: absolute; } }",function(e){return"absolute"==p(e,null,"position")})}return t}function h(e,n,o,i){function a(){d&amp;&amp;(delete N.style,delete N.modElem)}if(i=r(i,"undefined")?!1:i,!r(o,"undefined")){var u=v(e,o);if(!r(u,"undefined"))return u}for(var d,p,c,m,h,y=["modernizr","tspan","samp"];!N.style&amp;&amp;y.length;)d=!0,N.modElem=l(y.shift()),N.style=N.modElem.style;for(c=e.length,p=0;c&gt;p;p++)if(m=e[p],h=N.style[m],f(m,"-")&amp;&amp;(m=s(m)),N.style[m]!==t){if(i||r(o,"undefined"))return a(),"pfx"==n?m:!0;try{N.style[m]=o}catch(g){}if(N.style[m]!=h)return a(),"pfx"==n?m:!0}return a(),!1}function y(e,n,t,o,i){var s=e.charAt(0).toUpperCase()+e.slice(1),a=(e+" "+O.join(s+" ")+s).split(" ");return r(n,"string")||r(n,"undefined")?h(a,n,o,i):(a=(e+" "+z.join(s+" ")+s).split(" "),d(a,n,t))}function g(e,n,r){return y(e,t,t,n,r)}var C=[],S=[],x={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var t=this;setTimeout(function(){n(t[e])},0)},addTest:function(e,n,t){S.push({name:e,fn:n,options:t})},addAsyncTest:function(e){S.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=x,Modernizr=new Modernizr,Modernizr.addTest("history",function(){var n=navigator.userAgent;return-1===n.indexOf("Android 2.")&amp;&amp;-1===n.indexOf("Android 4.0")||-1===n.indexOf("Mobile Safari")||-1!==n.indexOf("Chrome")||-1!==n.indexOf("Windows Phone")||"file:"===location.protocol?e.history&amp;&amp;"pushState"in e.history:!1});var w=n.documentElement,_="svg"===w.nodeName.toLowerCase(),b="CSS"in e&amp;&amp;"supports"in e.CSS,P="supportsCSS"in e;Modernizr.addTest("supports",b||P);var E="Moz O ms Webkit",O=x._config.usePrefixes?E.split(" "):[];x._cssomPrefixes=O;var T=function(n){var r,o=prefixes.length,i=e.CSSRule;if("undefined"==typeof i)return t;if(!n)return!1;if(n=n.replace(/^@/,""),r=n.replace(/-/g,"_").toUpperCase()+"_RULE",r in i)return"@"+n;for(var s=0;o&gt;s;s++){var a=prefixes[s],l=a.toUpperCase()+"_"+r;if(l in i)return"@-"+a.toLowerCase()+"-"+n}return!1};x.atRule=T;var z=x._config.usePrefixes?E.toLowerCase().split(" "):[];x._domPrefixes=z;var A={elem:l("modernizr")};Modernizr._q.push(function(){delete A.elem});var N={style:A.elem.style};Modernizr._q.unshift(function(){delete N.style}),x.testAllProps=y;var k=x.prefixed=function(e,n,t){return 0===e.indexOf("@")?T(e):(-1!=e.indexOf("-")&amp;&amp;(e=s(e)),n?y(e,n,t):y(e,"pfx"))};x.prefixedCSS=function(e){var n=k(e);return n&amp;&amp;a(n)};x.testAllProps=g,Modernizr.addTest("backgroundcliptext",function(){return g("backgroundClip","text")}),Modernizr.addTest("csstransforms3d",function(){return!!g("perspective","1px",!0)}),o(),i(C),delete x.addTest,delete x.addAsyncTest;for(var j=0;j&lt;Modernizr._q.length;j++)Modernizr._q[j]();e.Modernizr=Modernizr}(window,document);
+        &lt;/script&gt;
+
+                                    &lt;link href="/build/css/external-a5a43a690b.css" rel="stylesheet"&gt;
+                    
+                
+                    &lt;meta name="google-site-verification" content="wVbxKeNh8aL7KOWpK7pF9KhJ-dT5Ap1AAneiFMRFa48"&gt;
+        
+    &lt;/head&gt;
+        &lt;body class="jobs" data-page="jobs" data-locale="en"&gt;
+            &lt;div class="header"&gt;
+            &lt;div class="content__section content__section--no-min-height"&gt;
+                &lt;a class="header__logo" href="/"&gt;&lt;/a&gt;
+                
+                &lt;div class="select-wrapper header__languageswitcher"&gt;
+                                        &lt;select class="filters__input" id="languageswitcher"&gt;
+                                                                                &lt;option value="en" selected=&amp;quot;selected&amp;quot;&gt;English&lt;/option&gt;
+                                                                                &lt;option value="de" &gt;German&lt;/option&gt;
+                                            &lt;/select&gt;
+                &lt;/div&gt;
+                
+                &lt;ul class="pn"&gt;
+            &lt;li class="pn__item pn__item--the-company " data-page="the-company"&gt;
+                            &lt;a href="/the-company?locale=en" data-pjax&gt;The Company&lt;/a&gt;
+            
+                    &lt;/li&gt;
+            &lt;li class="pn__item pn__item--teams  pn__item--has-subn " data-page="teams"&gt;
+                            &lt;span&gt;Teams&lt;/span&gt;
+            
+                            &lt;ul class="pn__subn pn__subn--wide"&gt;
+                    &lt;section class="pn__subn__grid"&gt;
+                                                    &lt;div class="pn__subsubn"&gt;
+                                &lt;span class="pn__subsubn-header"&gt;
+                                    Makers
+                                &lt;/span&gt;
+                                &lt;ul class="pn__subsubn-pages"&gt;
+                                                                                                                                                                &lt;li class="pn__subsubn-child-of-subheader--design " data-page="teams-makers-design"&gt;
+                                                &lt;a href="/teams/makers/design?locale=en" data-pjax&gt;&lt;span data-hover="Design"&gt;Design&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--digital " data-page="teams-makers-digital"&gt;
+                                                &lt;a href="/teams/makers/digital?locale=en" data-pjax&gt;&lt;span data-hover="Digital"&gt;Digital&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--engineering " data-page="teams-makers-engineering"&gt;
+                                                &lt;a href="/teams/makers/engineering?locale=en" data-pjax&gt;&lt;span data-hover="Engineering"&gt;Engineering&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--marketing-communications " data-page="teams-makers-marketing-communications"&gt;
+                                                &lt;a href="/teams/makers/marketing-communications?locale=en" data-pjax&gt;&lt;span data-hover="Marketing &amp;amp; Communications"&gt;Marketing &amp;amp; Communications&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--product-development " data-page="teams-makers-product-development"&gt;
+                                                &lt;a href="/teams/makers/product-development?locale=en" data-pjax&gt;&lt;span data-hover="Product Development"&gt;Product Development&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--production " data-page="teams-makers-production"&gt;
+                                                &lt;a href="/teams/makers/production?locale=en" data-pjax&gt;&lt;span data-hover="Production"&gt;Production&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--research-development " data-page="teams-makers-research-development"&gt;
+                                                &lt;a href="/teams/makers/research-development?locale=en" data-pjax&gt;&lt;span data-hover="Research &amp;amp; Development"&gt;Research &amp;amp; Development&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                            &lt;/ul&gt;
+                            &lt;/div&gt;
+                                                    &lt;div class="pn__subsubn"&gt;
+                                &lt;span class="pn__subsubn-header"&gt;
+                                    Growers
+                                &lt;/span&gt;
+                                &lt;ul class="pn__subsubn-pages"&gt;
+                                                                                                                                                                &lt;li class="pn__subsubn-child-of-subheader--accounting-finance " data-page="teams-growers-accounting-finance"&gt;
+                                                &lt;a href="/teams/growers/accounting-finance?locale=en" data-pjax&gt;&lt;span data-hover="Accounting &amp;amp; Finance"&gt;Accounting &amp;amp; Finance&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--administrative " data-page="teams-growers-administrative"&gt;
+                                                &lt;a href="/teams/growers/administrative?locale=en" data-pjax&gt;&lt;span data-hover="Administrative"&gt;Administrative&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--audit " data-page="teams-growers-audit"&gt;
+                                                &lt;a href="/teams/growers/audit?locale=en" data-pjax&gt;&lt;span data-hover="Audit"&gt;Audit&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--customer-service " data-page="teams-growers-customer-service"&gt;
+                                                &lt;a href="/teams/growers/customer-service?locale=en" data-pjax&gt;&lt;span data-hover="Customer Service"&gt;Customer Service&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--facilities-services " data-page="teams-growers-facilities-services"&gt;
+                                                &lt;a href="/teams/growers/facilities-services?locale=en" data-pjax&gt;&lt;span data-hover="Facilities &amp;amp; Services"&gt;Facilities &amp;amp; Services&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--human-resources " data-page="teams-growers-human-resources"&gt;
+                                                &lt;a href="/teams/growers/human-resources?locale=en" data-pjax&gt;&lt;span data-hover="Human Resources"&gt;Human Resources&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--information-technology " data-page="teams-growers-information-technology"&gt;
+                                                &lt;a href="/teams/growers/information-technology?locale=en" data-pjax&gt;&lt;span data-hover="Tech"&gt;Tech&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--legal-sea " data-page="teams-growers-legal-sea"&gt;
+                                                &lt;a href="/teams/growers/legal-sea?locale=en" data-pjax&gt;&lt;span data-hover="Legal / Social Environmental Affairs"&gt;Legal / Social Environmental Affairs&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--sales " data-page="teams-growers-sales"&gt;
+                                                &lt;a href="/teams/growers/sales?locale=en" data-pjax&gt;&lt;span data-hover="Sales"&gt;Sales&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--sourcing " data-page="teams-growers-sourcing"&gt;
+                                                &lt;a href="/teams/growers/sourcing?locale=en" data-pjax&gt;&lt;span data-hover="Sourcing"&gt;Sourcing&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--strategy " data-page="teams-growers-strategy"&gt;
+                                                &lt;a href="/teams/growers/strategy?locale=en" data-pjax&gt;&lt;span data-hover="Strategy"&gt;Strategy&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--supply-chain-management " data-page="teams-growers-supply-chain-management"&gt;
+                                                &lt;a href="/teams/growers/supply-chain-management?locale=en" data-pjax&gt;&lt;span data-hover="Supply Chain Management"&gt;Supply Chain Management&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                            &lt;/ul&gt;
+                            &lt;/div&gt;
+                                                    &lt;div class="pn__subsubn"&gt;
+                                &lt;span class="pn__subsubn-header"&gt;
+                                    Retailers
+                                &lt;/span&gt;
+                                &lt;ul class="pn__subsubn-pages"&gt;
+                                                                                                                                                                &lt;li class="pn__subsubn-child-of-subheader--retail-back-office " data-page="teams-retailers-retail-back-office"&gt;
+                                                &lt;a href="/teams/retailers/retail-back-office?locale=en" data-pjax&gt;&lt;span data-hover="Retail Back Office"&gt;Retail Back Office&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--retail-store " data-page="teams-retailers-retail-store"&gt;
+                                                &lt;a href="/teams/retailers/retail-store?locale=en" data-pjax&gt;&lt;span data-hover="Retail Store"&gt;Retail Store&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--our-stores " data-page="teams-retailers-our-stores"&gt;
+                                                &lt;a href="/teams/retailers/our-stores?locale=en" data-pjax&gt;&lt;span data-hover="Our Stores"&gt;Our Stores&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--career-oportunities " data-page="teams-retailers-career-oportunities"&gt;
+                                                &lt;a href="/teams/retailers/career-oportunities?locale=en" data-pjax&gt;&lt;span data-hover="Retail Career Opportunities"&gt;Retail Career Opportunities&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--training-with-retail " data-page="teams-retailers-training-with-retail"&gt;
+                                                &lt;a href="/teams/retailers/training-with-retail?locale=en" data-pjax&gt;&lt;span data-hover=" "&gt; &lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                            &lt;/ul&gt;
+                            &lt;/div&gt;
+                                                    &lt;div class="pn__subsubn"&gt;
+                                &lt;span class="pn__subsubn-header"&gt;
+                                    Pupils
+                                &lt;/span&gt;
+                                &lt;ul class="pn__subsubn-pages"&gt;
+                                                                                                                                                                &lt;li class="pn__subsubn-child-of-subheader--pupil-internship " data-page="teams-pupils-pupil-internship"&gt;
+                                                &lt;a href="/teams/pupils/pupil-internship?locale=en" data-pjax&gt;&lt;span data-hover="Pupil Internship"&gt;Pupil Internship&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--apprenticeship-program " data-page="teams-pupils-apprenticeship-program"&gt;
+                                                &lt;a href="/teams/pupils/apprenticeship-program?locale=en" data-pjax&gt;&lt;span data-hover="Apprenticeship Program"&gt;Apprenticeship Program&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--dual-study-program " data-page="teams-pupils-dual-study-program"&gt;
+                                                &lt;a href="/teams/pupils/dual-study-program?locale=en" data-pjax&gt;&lt;span data-hover="Dual Study Program"&gt;Dual Study Program&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                            &lt;/ul&gt;
+                            &lt;/div&gt;
+                                                    &lt;div class="pn__subsubn"&gt;
+                                &lt;span class="pn__subsubn-header"&gt;
+                                    students
+                                &lt;/span&gt;
+                                &lt;ul class="pn__subsubn-pages"&gt;
+                                                                                                                                                                &lt;li class="pn__subsubn-child-of-subheader--internships-students " data-page="teams-students-internships-students"&gt;
+                                                &lt;a href="/teams/students/internships-students?locale=en" data-pjax&gt;&lt;span data-hover="Internships"&gt;Internships&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                            &lt;li class="pn__subsubn-header pn__subsubn-header--graduates"&gt;
+                                                Graduates
+                                            &lt;/li&gt;
+                                                                                                                                                                                                                                                                                                                                                                    &lt;li class="pn__subsubn-child-of-subheader--apprenticeship-at-reebok " data-page="teams-students-apprenticeship-at-reebok"&gt;
+                                                &lt;a href="/teams/students/apprenticeship-at-reebok?locale=en" data-pjax&gt;&lt;span data-hover="Apprenticeship at Reebok"&gt;Apprenticeship at Reebok&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--apac-trainee-program " data-page="teams-students-apac-trainee-program"&gt;
+                                                &lt;a href="/teams/students/apac-trainee-program?locale=en" data-pjax&gt;&lt;span data-hover="APAC Trainee Programm"&gt;APAC Trainee Programm&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                                                                                                                        &lt;li class="pn__subsubn-child-of-subheader--direct-entry " data-page="teams-students-direct-entry"&gt;
+                                                &lt;a href="/teams/students/direct-entry?locale=en" data-pjax&gt;&lt;span data-hover="Direct Entry"&gt;Direct Entry&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/li&gt;
+                                                                                                            &lt;/ul&gt;
+                            &lt;/div&gt;
+                                            &lt;/section&gt;
+                &lt;/ul&gt;
+                    &lt;/li&gt;
+            &lt;li class="pn__item pn__item--brands  pn__item--has-subn " data-page="brands"&gt;
+                            &lt;span&gt;Brands&lt;/span&gt;
+            
+                            &lt;ul class="pn__subn"&gt;
+                    &lt;section class="pn__subn__grid"&gt;
+                                                    &lt;a href="/brands/adidas?locale=en" data-pjax data-page="brands-adidas"&gt;&lt;span data-hover="adidas"&gt;adidas&lt;/span&gt;&lt;/a&gt;
+                                                    &lt;a href="/brands/reebok?locale=en" data-pjax data-page="brands-reebok"&gt;&lt;span data-hover="Reebok"&gt;Reebok&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/section&gt;
+                &lt;/ul&gt;
+                    &lt;/li&gt;
+            &lt;li class="pn__item pn__item--locations  pn__item--has-subn " data-page="locations"&gt;
+                            &lt;span&gt;Locations&lt;/span&gt;
+            
+                            &lt;ul class="pn__subn"&gt;
+                    &lt;section class="pn__subn__grid"&gt;
+                                                    &lt;a href="/locations/headquarters?locale=en" data-pjax data-page="locations-headquarters"&gt;&lt;span data-hover="Headquarters"&gt;Headquarters&lt;/span&gt;&lt;/a&gt;
+                                                    &lt;a href="/locations/hubs?locale=en" data-pjax data-page="locations-hubs"&gt;&lt;span data-hover="Hubs"&gt;Hubs&lt;/span&gt;&lt;/a&gt;
+                                            &lt;/section&gt;
+                &lt;/ul&gt;
+                    &lt;/li&gt;
+            &lt;li class="pn__item pn__item--jobs " data-page="jobs"&gt;
+                            &lt;a href="/jobs?locale=en" data-pjax&gt;All Job Openings&lt;/a&gt;
+            
+                    &lt;/li&gt;
+        &lt;li class="pn__item pn__item--my-applications"&gt;
+        &lt;a rel="nofollow" target="_blank" href="https://jobs.adidas-group.com/talentcommunity/login/?returnurl=/talentcommunity/profile/"&gt;My Applications&lt;/a&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="pn-menu"&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;            &lt;/div&gt;
+        &lt;/div&gt;
+
+        &lt;div id="content" class="content content--page-wrapper"&gt;
+                        
+    &lt;script type="text/javascript"&gt;
+        var filterLocationOptions = ["Adelaide, Australia","Agira, Italy","Alabama, United States of America","Albertville, United States of America","Alcochete, Portugal","Allen, United States of America","Almaty, Kazakhstan","Alpine, United States of America","Amman, Jordan","Amsterdam, Netherlands","Anglet, France","Antioch, United States of America","Aqaba, Jordan","Arvin, United States of America","Athens, Greece","Atlanta, United States of America","Atlantic City, United States of America","Aubonne, Switzerland","Auburn Hills, United States of America","Auburn, United States of America","Auckland, New Zealand","Aurora, United States of America","Aventura, United States of America","Bagnolo San Vito, Italy","Banbridge, United Kingdom of Great Britain and Northern Ireland","Bangkok, Thailand","Baraboo, United States of America","Barcelona, Spain","Barceloneta, Puerto Rico","Barceloneta, United States of America","Barstow, United States of America","Basingstoke, United Kingdom of Great Britain and Northern Ireland","Beaucouze, France","Belgrade, Serbia","Bergen, United States of America","Berlin, Germany","Bilbao, Spain","Birch Run, United States of America","Blackwood, United States of America","Bluffton, United States of America","Bogota, Colombia","Bologna, Italy","Boucherville, , Canada","Braintree, United Kingdom of Great Britain and Northern Ireland","Branson, United States of America","Brantford, , Canada","Bremen, Germany","Brennero, Italy","Brisbane, Australia","Bronx, United States of America","Brooklyn, United States of America","Brunnthal, Germany","Brussels, Belgium","Budapest, Hungary","Buenos Aires, Argentina","Burnaby, , Canada","Byron Center, United States of America","Cabazon, United States of America","Cairns, Australia","Cairo, Egypt","Calexico, United States of America","Calgary, , Canada","Calhoun, United States of America","Cali, Colombia","Camarillo, United States of America","Canberra, Australia","Canutillo, United States of America","Cape Town, South Africa","Carlsbad, United States of America","Casablanca, Morocco","Caspe, Spain","Castle Rock, United States of America","Central Valley, United States of America","Cham, Switzerland","Chandler, United States of America","Charleston, United States of America","Charlotte, United States of America","Chennai, India","Cherry Hill, United States of America","Chesterfield, United States of America","Chicago, United States of America","Christchurch, New Zealand","Cincinnati, United States of America","Citt\u00e0 Sant'Angelo, Italy","Clarksburg, United States of America","Claye Souilly, France","Clinton, United States of America","Colon City, Panama","Commerce, United States of America","Concord, United States of America","Cookstown, , Canada","Corbeil Essonnes, France","Creil, France","Culver City, United States of America","Cypress, United States of America","Dalian, Greater China","Dawsonville, United States of America","Daytona Beach, United States of America","Deer Park, United States of America","Denver, United States of America","Destin, United States of America","Dubai, United Arab Emirates","Dugopolje, Croatia","Durham, United Kingdom of Great Britain and Northern Ireland","Eagan, United States of America","Edinburgh, United States of America","Edison, United States of America","Edmonton, , Canada","Elizabeth, United States of America","Ellenton, United States of America","Estero, United States of America","Faro, Portugal","Fidenza, Italy","Florida City, United States of America","Foiano Della Chiana, Italy","Foley, United States of America","Folsom, United States of America","Fort Worth, United States of America","Franconville, France","Frankfurt, Germany","Gaffney, United States of America","Garden City, United States of America","Gettysburg, United States of America","Gilroy, United States of America","Giverny, France","Glendale, United States of America","Gold Coast, Australia","Gonesse, France","Gonzales, United States of America","Grand Prairie, United States of America","Grapevine, United States of America","Greding, Germany","Greenville, United States of America","Gretna, United Kingdom of Great Britain and Northern Ireland","Gretna, United States of America","Grove City, United States of America","Guangzhou, Greater China","Gulfport, United States of America","Gurgaon, India","Gurnee, United States of America","Haarlem, Netherlands","Hagerstown, United States of America","Halifax, , Canada","Halton Hills, , Canada","Hamburg, Germany","Hanover, United States of America","Hershey, United States of America","Herzogenaurach, Germany","Ho Chi Minh City, Viet Nam","Holon, Israel","Honfleur, France","Hong Kong, Greater China","Houston, United States of America","Howell, United States of America","Ile Saint-Denis, France","Indianapolis, United States of America","Irvine, United States of America","Istanbul, Turkey","Jackson, United States of America","Jakarta, Indonesia","Jeddah, Saudi Arabia","Jerez de la Frontera, Spain","Jersey City, United States of America","Johannesburg, South Africa","Johnson Creek, United States of America","Kansas City, United States of America","Katy, United States of America","Kildare, Ireland","Kittery, United States of America","Klagenfurt, Austria","Kuala Lumpur, Malaysia","Kungsbacka, Sweden","Lahaina, United States of America","Lake George, United States of America","Lakewood, United States of America","Lancaster, United States of America","Landquart, Switzerland","Langley, , Canada","Laredo, United States of America","Larnaca, Cyprus","Las Vegas, United States of America","Lasalle, , Canada","Lawrenceville, United States of America","Leccio, Italy","Leesburg, United States of America","Lehi, United States of America","Leipzig, Germany","Lelystad, Netherlands","Les Clayes sous Bois, France","Lillestrom, Norway","Lima, Peru","Lincoln City, United States of America","Liniers, Argentina","Lisbon, Portugal","Livermore, United States of America","Locust Grove, United States of America","London, United Kingdom of Great Britain and Northern Ireland","Los Angeles, United States of America","Lucerne, Switzerland","Lutz, United States of America","Lyon, France","Madrid, Spain","Malaga, Spain","Manchester, United Kingdom of Great Britain and Northern Ireland","Manila, Philippines","Marbella, Spain","Marcianise, Italy","Marrakech, Morocco","Martinez, Argentina","Mashantucket, United States of America","McLean, United States of America","Medellin, Colombia","Melbourne, Australia","Mercedes, United States of America","Merrimack, United States of America","Messancy, Belgium","Metzingen, Germany","Mexico City, Mexico","Miami, United States of America","Michigan, United States of America","Milan, Italy","Milpitas, United States of America","Mississauga, , Canada","Monroe, United States of America","Monterrey, Mexico","Montreal, , Canada","Monza, Italy","Mora de Rebielos, Spain","Myrtle Beach, United States of America","M\u00fcnchen, Germany","Nailloux, France","Napa, United States of America","Nashville, United States of America","Neum\u00fcnster, Germany","New York City, United States of America","New York, United States of America","Niagara Falls, United States of America","Niagara-On-The-Lake, , Canada","Norfolk, United States of America","North Bend, United States of America","North Conway, United States of America","Noventa di Piave, Italy","N\u00fcrnberg, Germany","Ocean City, United States of America","Ochtrup, Germany","Oklahoma, United States of America","Ontario, United States of America","Orange, United States of America","Orlando, United States of America","Oshkosh, United States of America","Oxon, United States of America","Palermo, Argentina","Panama City, Panama","Paramus, United States of America","Paris, France","Park City, United States of America","Parndorf, Austria","Pearl, United States of America","Perth, Australia","Petaling Jaya, Malaysia","Petaluma, United States of America","Phnom Penh, Cambodia","Piding, Germany","Pittsburgh, United States of America","Pleasant Prairie, United States of America","Pooler, United States of America","Portland, United States of America","Porto, Portugal","Potomac Mills, United States of America","Pottstown, United States of America","Prague, Czechia","Queens, United States of America","Queenstown, United States of America","Rehoboth Beach, United States of America","Rennes, France","Rieste, Germany","Riverhead, United States of America","Riyadh, Saudi Arabia","Roermond, Netherlands","Romans, France","Rome, Italy","Roosendaal, Netherlands","Roppenheim, France","Rostock, Germany","Round Rock, United States of America","Salzburg, Austria","San Clemente, United States of America","San Diego, United States of America","San Francisco, United States of America","San Juan, Puerto Rico","San Juan, United States of America","San Marcos, United States of America","Santa Monica, United States of America","Santiago, Chile","Scheinfeld, Germany","Secaucus, United States of America","Seoul, Korea, Republic of","Serravalle, Italy","Sevierville, United States of America","Sevilla, Spain","Shanghai, Greater China","Shenandoah, United States of America","Singapore, Singapore","Smithfield, United States of America","Somerville, United States of America","Sosnowiec, Poland","Sparks, United States of America","Spartanburg, United States of America","St-Augustine, United States of America","St. Louis, United States of America","Stockholm, Sweden","Sunbury, United States of America","Sunrise, United States of America","Suzhou, Greater China","Swindon, United Kingdom of Great Britain and Northern Ireland","Sydney, Australia","Szczecin, Poland","Taastrup, Denmark","Taipei, Greater China","Talange, France","Tannersville, United States of America","Tempe, United States of America","Terrell, United States of America","Texas City, United States of America","Thessaloniki, Greece","Tianjin, Greater China","Tinton Falls, United States of America","Tokyo, Japan","Topanga Canyon, United States of America","Toronto, , Canada","Toulouse, France","Troutdale, United States of America","Troyes, France","Tucson, United States of America","Tulalip, United States of America","Tulare, United States of America","Uffenheim, Germany","Vacaville, United States of America","Valmontone, Italy","Venice, United States of America","Vero Beach, United States of America","Vicolungo, Italy","Waipahu, United States of America","Warsaw, Poland","Waterloo, United States of America","Wayne, United States of America","Wertheim, Germany","West Hollywood, United States of America","West Nyack, United States of America","West Palm Beach, United States of America","Wien, Austria","Wilkes-Barre, United States of America","Williamsburg, United States of America","Winnipeg, , Canada","Wolfsburg, Germany","Woodburn, United States of America","Woodstock, United States of America","Wrentham, United States of America","Yonkers, United States of America","York, United Kingdom of Great Britain and Northern Ireland","Zagreb, Croatia","Zaragoza, Spain","Zarqa, Jordan","Zweibr\u00fccken, Germany"];
+        var filterTeamOptions = ["Accounting &amp; Finance","Administrative","Audit","Customer Service","Data &amp; Analytics","Design","Digital","Engineering","Facilities &amp; Services","Global Operations","Human Resources","Information Technology","Legal \/ SEA","Marketing &amp; Communications","Product Development","Research &amp; Development","Retail (Back Office)","Retail (Store)","Sales","Sourcing","Strategy","Supply Chain Management"];
+        var locationswithregion = {"Europe, Middle East &amp; Africa":{"region":"Europe, Middle East &amp; Africa","countries":["Austria","Belgium","Croatia","Cyprus","Czechia","Denmark","Egypt","France","Germany","Greece","Hungary","India","Ireland","Israel","Italy","Jordan","Kazakhstan","Morocco","Netherlands","Norway","Poland","Portugal","Saudi Arabia","Serbia","South Africa","Spain","Sweden","Switzerland","Turkey","United Arab Emirates","United Kingdom of Great Britain and Northern Ireland"],"country":{"Austria":{"country":"Austria","cities":["Klagenfurt","Parndorf","Salzburg","Wien"]},"Belgium":{"country":"Belgium","cities":["Brussels","Messancy"]},"Croatia":{"country":"Croatia","cities":["Dugopolje","Zagreb"]},"Cyprus":{"country":"Cyprus","cities":["Larnaca"]},"Czechia":{"country":"Czechia","cities":["Prague"]},"Denmark":{"country":"Denmark","cities":["Taastrup"]},"Egypt":{"country":"Egypt","cities":["Cairo"]},"France":{"country":"France","cities":["Anglet","Beaucouze","Claye Souilly","Corbeil Essonnes","Creil","Franconville","Giverny","Gonesse","Honfleur","Ile Saint-Denis","Les Clayes sous Bois","Lyon","Nailloux","Paris","Rennes","Romans","Roppenheim","Talange","Toulouse","Troyes"]},"Germany":{"country":"Germany","cities":["Berlin","Bremen","Brunnthal","Frankfurt","Greding","Hamburg","Herzogenaurach","Leipzig","Metzingen","M\u00fcnchen","Neum\u00fcnster","N\u00fcrnberg","Ochtrup","Piding","Rieste","Rostock","Scheinfeld","Uffenheim","Wertheim","Wolfsburg","Zweibr\u00fccken"]},"Greece":{"country":"Greece","cities":["Athens","Thessaloniki"]},"Hungary":{"country":"Hungary","cities":["Budapest"]},"India":{"country":"India","cities":["Gurgaon"]},"Ireland":{"country":"Ireland","cities":["Kildare"]},"Israel":{"country":"Israel","cities":["Holon"]},"Italy":{"country":"Italy","cities":["Agira","Bagnolo San Vito","Bologna","Brennero","Citt\u00e0 Sant'Angelo","Fidenza","Foiano Della Chiana","Leccio","Marcianise","Milan","Monza","Noventa di Piave","Rome","Serravalle","Valmontone","Vicolungo"]},"Jordan":{"country":"Jordan","cities":["Amman","Aqaba","Zarqa"]},"Kazakhstan":{"country":"Kazakhstan","cities":["Almaty"]},"Morocco":{"country":"Morocco","cities":["Casablanca","Marrakech"]},"Netherlands":{"country":"Netherlands","cities":["Amsterdam","Haarlem","Lelystad","Roermond","Roosendaal"]},"Norway":{"country":"Norway","cities":["Lillestrom"]},"Poland":{"country":"Poland","cities":["Sosnowiec","Szczecin","Warsaw"]},"Portugal":{"country":"Portugal","cities":["Alcochete","Faro","Lisbon","Porto"]},"Saudi Arabia":{"country":"Saudi Arabia","cities":["Jeddah","Riyadh"]},"Serbia":{"country":"Serbia","cities":["Belgrade"]},"South Africa":{"country":"South Africa","cities":["Cape Town","Johannesburg"]},"Spain":{"country":"Spain","cities":["Barcelona","Bilbao","Caspe","Jerez de la Frontera","Madrid","Malaga","Marbella","Mora de Rebielos","Sevilla","Zaragoza"]},"Sweden":{"country":"Sweden","cities":["Kungsbacka","Stockholm"]},"Switzerland":{"country":"Switzerland","cities":["Aubonne","Cham","Landquart","Lucerne"]},"Turkey":{"country":"Turkey","cities":["Istanbul"]},"United Arab Emirates":{"country":"United Arab Emirates","cities":["Dubai"]},"United Kingdom of Great Britain and Northern Ireland":{"country":"United Kingdom of Great Britain and Northern Ireland","cities":["Banbridge","Basingstoke","Braintree","Durham","Gretna","London","Manchester","Swindon","York"]}}},"Americas":{"region":"Americas","countries":["Argentina","Canada","Chile","Colombia","Mexico","Panama","Peru","Puerto Rico","United States of America"],"country":{"Argentina":{"country":"Argentina","cities":["Buenos Aires","Liniers","Martinez","Palermo"]},"Canada":{"country":"Canada","states":["AB","BC","MB","NS","ON","QC"],"state":{"AB":{"state":"AB","state-short":"","cities":["Calgary","Edmonton"]},"BC":{"state":"BC","state-short":"","cities":["Burnaby","Langley"]},"MB":{"state":"MB","state-short":"","cities":["Winnipeg"]},"NS":{"state":"NS","state-short":"","cities":["Halifax"]},"ON":{"state":"ON","state-short":"","cities":["Brantford","Cookstown","Halton Hills","Mississauga","Niagara-On-The-Lake","Toronto"]},"QC":{"state":"QC","state-short":"","cities":["Boucherville","Lasalle","Montreal"]}}},"Chile":{"country":"Chile","cities":["Santiago"]},"Colombia":{"country":"Colombia","cities":["Bogota","Cali","Medellin"]},"Mexico":{"country":"Mexico","cities":["Mexico City","Monterrey"]},"Panama":{"country":"Panama","cities":["Colon City","Panama City"]},"Peru":{"country":"Peru","cities":["Lima"]},"Puerto Rico":{"country":"Puerto Rico","cities":["Barceloneta","San Juan"]},"United States of America":{"country":"United States of America","cities":["Alabama","Albertville","Allen","Alpine","Antioch","Arvin","Atlanta","Atlantic City","Auburn","Auburn Hills","Aurora","Aventura","Baraboo","Barceloneta","Barstow","Bergen","Birch Run","Blackwood","Bluffton","Branson","Bronx","Brooklyn","Byron Center","Cabazon","Calexico","Calhoun","Camarillo","Canutillo","Carlsbad","Castle Rock","Central Valley","Chandler","Charleston","Charlotte","Cherry Hill","Chesterfield","Chicago","Cincinnati","Clarksburg","Clinton","Commerce","Concord","Culver City","Cypress","Dawsonville","Daytona Beach","Deer Park","Denver","Destin","Eagan","Edinburgh","Edison","Elizabeth","Ellenton","Estero","Florida City","Foley","Folsom","Fort Worth","Gaffney","Garden City","Gettysburg","Gilroy","Glendale","Gonzales","Grand Prairie","Grapevine","Greenville","Gretna","Grove City","Gulfport","Gurnee","Hagerstown","Hanover","Hershey","Houston","Howell","Indianapolis","Irvine","Jackson","Jersey City","Johnson Creek","Kansas City","Katy","Kittery","Lahaina","Lake George","Lakewood","Lancaster","Laredo","Las Vegas","Lawrenceville","Leesburg","Lehi","Lincoln City","Livermore","Locust Grove","Los Angeles","Lutz","Mashantucket","McLean","Mercedes","Merrimack","Miami","Michigan","Milpitas","Monroe","Myrtle Beach","Napa","Nashville","New York","New York City","Niagara Falls","Norfolk","North Bend","North Conway","Ocean City","Oklahoma","Ontario","Orange","Orlando","Oshkosh","Oxon","Paramus","Park City","Pearl","Petaluma","Pittsburgh","Pleasant Prairie","Pooler","Portland","Potomac Mills","Pottstown","Queens","Queenstown","Rehoboth Beach","Riverhead","Round Rock","San Clemente","San Diego","San Francisco","San Juan","San Marcos","Santa Monica","Secaucus","Sevierville","Shenandoah","Smithfield","Somerville","Sparks","Spartanburg","St-Augustine","St. Louis","Sunbury","Sunrise","Tannersville","Tempe","Terrell","Texas City","Tinton Falls","Topanga Canyon","Troutdale","Tucson","Tulalip","Tulare","Vacaville","Venice","Vero Beach","Waipahu","Waterloo","Wayne","West Hollywood","West Nyack","West Palm Beach","Wilkes-Barre","Williamsburg","Woodburn","Woodstock","Wrentham","Yonkers"]}}},"Asia Pacific":{"region":"Asia Pacific","countries":["Australia","Cambodia","Greater China","India","Indonesia","Japan","Korea, Republic of","Malaysia","New Zealand","Philippines","Singapore","Thailand","Viet Nam"],"country":{"Australia":{"country":"Australia","cities":["Adelaide","Brisbane","Cairns","Canberra","Gold Coast","Melbourne","Perth","Sydney"]},"Cambodia":{"country":"Cambodia","cities":["Phnom Penh"]},"Greater China":{"country":"Greater China","cities":["Dalian","Guangzhou","Hong Kong","Shanghai","Suzhou","Taipei","Tianjin"]},"India":{"country":"India","cities":["Chennai","Gurgaon"]},"Indonesia":{"country":"Indonesia","cities":["Jakarta"]},"Japan":{"country":"Japan","cities":["Tokyo"]},"Korea, Republic of":{"country":"Korea, Republic of","cities":["Seoul"]},"Malaysia":{"country":"Malaysia","cities":["Kuala Lumpur","Petaling Jaya"]},"New Zealand":{"country":"New Zealand","cities":["Auckland","Christchurch"]},"Philippines":{"country":"Philippines","cities":["Manila"]},"Singapore":{"country":"Singapore","cities":["Singapore"]},"Thailand":{"country":"Thailand","cities":["Bangkok"]},"Viet Nam":{"country":"Viet Nam","cities":["Ho Chi Minh City"]}}}};
+        var filterTeams = ["Accounting &amp; Finance","Administrative","Audit","Customer Service","Data &amp; Analytics","Design","Digital","Engineering","Facilities &amp; Services","Global Operations","Human Resources","Information Technology","Legal \/ SEA","Marketing &amp; Communications","Product Development","Research &amp; Development","Retail (Back Office)","Retail (Store)","Sales","Sourcing","Strategy","Supply Chain Management"];
+        var filterTypes = ["Full time","Intern","Limited Duration","Part time","Pupil","Seasonal","Temp"];
+    &lt;/script&gt;
+
+    &lt;aside class="content__sidebar content__sidebar--jobs filters"&gt;
+        &lt;form data-pjax action="/jobs" method="GET" id="search__form"&gt;
+            &lt;input type="hidden" id="brand" name="brand"&gt;
+            &lt;input type="hidden" id="team" name="team"&gt;
+            &lt;input type="hidden" id="type" name="type"&gt;
+            &lt;input type="hidden" id="keywords" name="keywords"&gt;
+            &lt;input type="hidden" id="location" name="location"&gt;
+            &lt;input type="hidden" id="sort" name="sort"&gt;
+            &lt;input type="hidden" id="locale" name="locale"&gt;
+            &lt;input type="hidden" id="offset" name="offset" value="0"&gt;
+        &lt;/form&gt;
+                &lt;fieldset class="filters__filter filters__filter--keyword"&gt;
+            &lt;input type="text"
+                   id="filterKeyword"
+                   class="filters__input filters__input--autocomplete"
+                   placeholder="Keywords"
+                   value=""
+                   &gt;
+        &lt;/fieldset&gt;
+
+        &lt;fieldset class="filters__filter filters__filter--mobile-filters"&gt;
+            &lt;button id="filtersMobileApply" type="button" class="button"&gt;
+                Add filters
+            &lt;/button&gt;
+        &lt;/fieldset&gt;
+
+        &lt;div class="filters__mobile filters__mobile"&gt;
+            &lt;fieldset class="filters__filter filters__filter--locations"&gt;
+                &lt;input type="text"
+                       class="filters__input filters__input--autocomplete"
+                       placeholder="City Quicksearch"
+                       data-autocomplete="location"
+                       data-autocomplete-source="filterLocationOptions"&gt;
+                &lt;button id="filterLocationAdd" type="button" disabled="disabled" class="filters__button-add-filter pull-right button button--normal button--gray-text"&gt;
+                    Add a new Location
+                &lt;/button&gt;
+            &lt;/fieldset&gt;
+
+            &lt;fieldset class="filters__filter filters__filter--teams"&gt;
+                &lt;button id="filterTeamAdd" type="button" disabled="disabled" class="filters__button-add-filter pull-right button button--normal button--gray-text"&gt;
+                    Add a new Team
+                &lt;/button&gt;
+            &lt;/fieldset&gt;
+
+            &lt;fieldset class="filters__filter filters__filter--brands"&gt;
+                &lt;ul&gt;
+                                            &lt;li&gt;
+                            &lt;input type="checkbox" class="filters__input filters__input--checkbox filters-brand" id="filter-brand-adidas" value="adidas"&gt;
+                                                            &lt;label class="filters__input filters__label" for="filter-brand-adidas"&gt;adidas&lt;/label&gt;
+                                                    &lt;/li&gt;
+                                    &lt;/ul&gt;
+            &lt;/fieldset&gt;
+
+            &lt;fieldset class="filters__filter filters__filter--types"&gt;
+                &lt;button id="filterTypeAdd" type="button" disabled="disabled" class="filters__button-add-filter pull-right button button--normal button--gray-text"&gt;
+                    Add a new Position Type
+                &lt;/button&gt;
+            &lt;/fieldset&gt;
+
+            &lt;fieldset class="filters__filter filters__filter--apply"&gt;
+                &lt;button id="filtersMobileClose" type="button" class="button"&gt;
+                    Apply filters
+                &lt;/button&gt;
+            &lt;/fieldset&gt;
+        &lt;/div&gt;
+    &lt;/aside&gt;
+
+    &lt;section class="content__section content__section-inner content__section--space-bottom search-result"&gt;
+        &lt;section class="push-three three-fourths"&gt;
+            &lt;ul class="search-result__applied-filter-criteria" id="filters__selected"&gt;
+                &lt;li class="search-result__filter-criteria search-result__filter-criteria--clearall is-invisible"&gt;Clear all&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div class="search-result__count"&gt;
+                &lt;div class="search-result__count-wrapper"&gt;
+                    &lt;div class="select-wrapper"&gt;
+                        &lt;select class="search-result__sort"&gt;
+                            &lt;option value="date"&gt;Sort by Date&lt;/option&gt;
+                            &lt;option value="title"&gt;Sort by Title&lt;/option&gt;
+                            &lt;option value="country"&gt;Sort by Country&lt;/option&gt;
+                            &lt;option value="city"&gt;Sort by City&lt;/option&gt;
+                            &lt;option value="brand"&gt;Sort by Brand&lt;/option&gt;
+                            &lt;option value="function"&gt;Sort by Team&lt;/option&gt;
+                        &lt;/select&gt;
+                    &lt;/div&gt;
+
+                    &lt;span id="search-result__count-number" class="count-me-up search-result__count-number counter-huge" data-count-to="1660" data-count-duration="1"&gt;0&lt;/span&gt;
+                                    &lt;/div&gt;
+            &lt;/div&gt;
+            &lt;ul id="jobs" class="search-result__list"&gt;
+                                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Portland-Sr_-Manager%2C-Reporting-OR/1002650401/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Sr. Manager, Reporting&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Portland, United States of America
+                        &lt;span&gt;|&lt;/span&gt;
+            Sales
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503957
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Los-Angeles-Senior-Manager-Development-FW-Basketball-Performance-CA/1002628501/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Senior Manager Development FW - Basketball Performance&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Los Angeles, United States of America
+                        &lt;span&gt;|&lt;/span&gt;
+            Global Operations
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503324
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/London-RUNNING-EXPERT-18HRS-FLAGSHIP-STORE-LDN-OXFORD-STREET-1-LND/1002611201/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;RUNNING EXPERT 18HRS - FLAGSHIP STORE - LDN - OXFORD STREET 1&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            London, United Kingdom of Great Britain and Northern Ireland
+                        &lt;span&gt;|&lt;/span&gt;
+            Retail (Store)
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 504067
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Porto-HR-Specialist-GBS-Operations-General-Admin-German-Speaker-%28MFD%29-13/1002584501/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;HR Specialist GBS Operations - General Admin - German Speaker (M/F/D)&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Porto, Portugal
+                        &lt;span&gt;|&lt;/span&gt;
+            Human Resources
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503298
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Porto-Team-Leader-GBS-HR-Services-General-Admin-%28MFD%29-13/1002584001/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Team Leader GBS HR Services - General Admin (M/F/D)&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Porto, Portugal
+                        &lt;span&gt;|&lt;/span&gt;
+            Human Resources
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503091
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Manchester-Marketing-Activations-Assistant-Manager-MAN/1002420501/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Marketing Activations Assistant Manager&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Manchester, United Kingdom of Great Britain and Northern Ireland
+                        &lt;span&gt;|&lt;/span&gt;
+            Marketing &amp;amp; Communications
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 504001
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Shanghai-Design-Intern%2C-Apparel-Future-City-SH/1002403601/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Design Intern, Apparel Future City&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Shanghai, Greater China
+                        &lt;span&gt;|&lt;/span&gt;
+            Design
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503993
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Shanghai-Design-Intern%2C-Apparel-ORIBB%2C-Graphic-Design-SH/1002402901/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Design Intern, Apparel ORI/BB, Graphic Design&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Shanghai, Greater China
+                        &lt;span&gt;|&lt;/span&gt;
+            Design
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503992
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Shanghai-Design-Intern%2C-Footwear-SH/1002404001/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Design Intern, Footwear&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Shanghai, Greater China
+                        &lt;span&gt;|&lt;/span&gt;
+            Design
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 503994
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Cape-Town-Permanent-Part-timer-adidas-Canal-Walk-WC/1002369201/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Permanent Part-timer - adidas Canal Walk&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Cape Town, South Africa
+                        &lt;span&gt;|&lt;/span&gt;
+            Retail (Store)
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 504052
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Shanghai-Assistant-Designer%2C-APP-SPW-SH/1002345901/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Assistant Designer, APP SPW&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Shanghai, Greater China
+                        &lt;span&gt;|&lt;/span&gt;
+            Design
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 504006
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Johannesburg-Permanent-Part-timer-adidas-FO-Mafikeng-NW/1002336301/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Permanent Part-timer - adidas FO Mafikeng&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Johannesburg, South Africa
+                        &lt;span&gt;|&lt;/span&gt;
+            Retail (Store)
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 03 2023 - 504036
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Liniers-Personal-para-Caja-Floresta-C/1002184901/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Personal para Caja - Floresta&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Liniers, Argentina
+                        &lt;span&gt;|&lt;/span&gt;
+            Retail (Store)
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 504004
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Amsterdam-Regional-Visual-Merchandising-Manager-NH/1001975301/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Regional Visual Merchandising Manager&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Amsterdam, Netherlands
+                        &lt;span&gt;|&lt;/span&gt;
+            Sales
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 503515
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Chennai-Senior-Manager-S2P-Operations-TN/1002132401/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Senior Manager - S2P Operations&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Chennai, India
+                        &lt;span&gt;|&lt;/span&gt;
+            Accounting &amp;amp; Finance
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 503772
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Chennai-Sr_-Specialist-R2R-GPO-TN/1002135401/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Sr. Specialist - R2R GPO&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Chennai, India
+                        &lt;span&gt;|&lt;/span&gt;
+            Accounting &amp;amp; Finance
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 501866
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Madrid-Digital-Key-Account-Executive-M/1002003601/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Digital Key Account Executive&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Madrid, Spain
+                        &lt;span&gt;|&lt;/span&gt;
+            Sales
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 503828
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Zaragoza-Key-Account-Executive-Teamwear-Clubs-Z/1002001101/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Key Account Executive - Teamwear / Clubs&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Zaragoza, Spain
+                        &lt;span&gt;|&lt;/span&gt;
+            Sales
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 503826
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Portland-Manager%2C-Supply-Chain-Strategy-and-Portfolio-Management-OR/1002015201/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Manager, Supply Chain Strategy and Portfolio Management&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Portland, United States of America
+                        &lt;span&gt;|&lt;/span&gt;
+            Supply Chain Management
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 503110
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                            &lt;li class="job-list__job"&gt;
+    &lt;a href="https://jobs.adidas-group.com/adidas/job/Chennai-Specialist-Freight-Invoice-Portal-TN/1002132801/?feedId=301201&amp;amp;utm_source=j2w" target="_blank" class="job-list__inner job-list__brand job-list__brand--adidas"&gt;
+            &lt;/a&gt;
+
+
+    &lt;section class="job-list__infos"&gt;
+        &lt;h3 class="job-list__title"&gt;Specialist - Freight Invoice Portal&lt;/h3&gt;
+        &lt;p class="job-list__facts"&gt;
+                            Chennai, India
+                        &lt;span&gt;|&lt;/span&gt;
+            Global Operations
+        &lt;/p&gt;
+        &lt;span class="number-and-date is-visible-on-hover"&gt;
+            November 02 2023 - 503773
+        &lt;/span&gt;
+    &lt;/section&gt;
+&lt;/li&gt;
+                                                &lt;/ul&gt;
+            &lt;button id="search-result__load-more" type="button" class="search-result__load-more button--gutter-top  "&gt;
+                Load more
+            &lt;/button&gt;
+        &lt;/section&gt;
+    &lt;/section&gt;
+
+        &lt;/div&gt;
+
+        &lt;div class="sitefooter"&gt;
+    &lt;div class="content__section content__section--no-min-height"&gt;
+
+        &lt;hr&gt;
+
+        &lt;section class="content__section--numbers"&gt;
+        &lt;div class="g-10-12"&gt;
+            We currently have
+            &lt;span class="color-red"&gt;
+                &lt;span class="count-me-up" data-count-to="1660"&gt;0&lt;/span&gt;
+                Open positions
+            &lt;/span&gt;
+
+
+            Across
+            &lt;span class="color-green"&gt;
+                &lt;span class="count-me-up" data-count-to="364"&gt;0&lt;/span&gt;
+                Locations
+            &lt;/span&gt;
+            
+        
+        
+            Spread over
+            &lt;span class="color-blue"&gt;
+                &lt;span class="count-me-up" data-count-to="52"&gt;0&lt;/span&gt;
+                Countries
+            &lt;/span&gt;
+        
+        
+            Organized in
+&lt;span class="color-yellow"&gt;&lt;span class="count-me-up" data-count-to="22"&gt;0&lt;/span&gt; Teams&lt;/span&gt;.
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+        &lt;a href="/jobs" class="sitefooter__jobs-button button button--red"&gt;
+            View all Job Openings
+        &lt;/a&gt;
+
+        &lt;span class="sitefooter__we-believe"&gt;
+            Through sport, we have the power to change lives
+        &lt;/span&gt;
+
+        &lt;ul class="sitefooter__social-links"&gt;
+            &lt;a class="linkedin" href="https://www.linkedin.com/company/3748/"&gt;&lt;/a&gt;
+            &lt;a class="youtube" href="https://www.youtube.com/user/adidasGroupCareers/"&gt;&lt;/a&gt;
+            &lt;a class="instagram" href="https://www.instagram.com/adidascareers/"&gt;&lt;/a&gt;
+            &lt;a class="facebook" href="http://www.facebook.com/futuretalents"&gt;&lt;/a&gt;
+        &lt;/ul&gt;
+
+        &lt;div class="sitefooter__links"&gt;
+            &lt;a href="http://adidas-group.com"&gt;adidas AG&lt;/a&gt;
+            &lt;a href="http://www.adidas-group.com/en/service/imprint/"&gt;Imprint&lt;/a&gt;
+            &lt;a href="http://www.adidas-group.com/en/service/legal-notice/"&gt;Legal Notice&lt;/a&gt;
+            &lt;a href="http://www.adidas-group.com/en/service/privacy-statement/"&gt;Privacy Notice&lt;/a&gt;
+            &lt;a href="/jobs/feed.xml"&gt;Job XML-Feed&lt;/a&gt;
+            &lt;a href="https://rise.articulate.com/share/isHzluurpippeinF80XbBdFHl1nrwuTX" target="_blank"&gt;
+                        How to apply (français)
+            &lt;/a&gt;
+        &lt;/div&gt;
+
+        &lt;div class="sitefooter__copyright"&gt;
+            &lt;small&gt;&amp;copy; 2022 adidas. All Rights Reserved.&lt;/small&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+        &lt;div class="pagecookie is-invisible" id="cookie-notification"&gt;
+    &lt;div class="content__section content__section--full-width content__section--no-min-height"&gt;
+
+        &lt;span&gt;
+            This website uses cookies to ensure you get the best experience on our website.
+                            &lt;a target="_blank" href="https://www.adidas-group.com/en/service/privacy-statement/"&gt;More information.&lt;/a&gt;
+                    &lt;/span&gt;
+
+        &lt;button type="button" class="button" id="cookie-button"&gt;
+            Got it.
+        &lt;/button&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
+        &lt;div id="back" class="sitebutton sitebutton--back is-invisible"&gt;
+            &lt;span&gt;back&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div id="top" class="sitebutton sitebutton--top is-invisible"&gt;
+            &lt;span&gt;top&lt;/span&gt;
+        &lt;/div&gt;
+
+                                    &lt;script type="text/javascript" src="/build/js/external-8e271b0673.js"&gt;&lt;/script&gt;
+                        
+            &lt;script type="text/template" id="template-jobs-item"&gt;
+    &lt;li class="job-list__job"&gt;
+        &lt;a href="&lt;%= obj.external_url %&gt;" target="_blank" class="job-list__inner job-list__brand job-list__brand--&lt;%= obj.brandslugged %&gt;"&gt;
+                &lt;/a&gt;
+
+        &lt;section class="job-list__infos"&gt;
+            &lt;h3 class="job-list__title"&gt;&lt;%= obj.external_title %&gt;&lt;/h3&gt;
+            &lt;p class="job-list__facts"&gt;
+                &lt;% if (obj.country == "United States" || obj.country == "Canada") { %&gt;
+                    &lt;%= obj.city %&gt;, &lt;%= obj.state %&gt;, &lt;%= obj.country %&gt;
+                &lt;% } else { %&gt;
+                    &lt;%= obj.city %&gt;, &lt;%= obj.country %&gt;
+                &lt;% } %&gt;
+                &lt;span&gt;|&lt;/span&gt;
+                &lt;%= obj.function %&gt;
+            &lt;/p&gt;
+            &lt;span class="number-and-date is-visible-on-hover"&gt;
+                &lt;%= obj.dateformatted %&gt; - &lt;%= obj.requisitionid %&gt;
+            &lt;/span&gt;    
+        &lt;/section&gt;
+    &lt;/li&gt;
+&lt;/script&gt;
+&lt;script type="text/template" id="filter-locations"&gt;
+    &lt;fieldset id="filters-location-id-&lt;%= filterId %&gt;" data-filter-id="&lt;%= filterId %&gt;"&gt;
+        &lt;div class="select-wrapper"&gt;
+            &lt;select class="filters__input filters-location__region"&gt;
+                &lt;option value=""&gt;Region&lt;/option&gt;
+                &lt;% _.forEach(locationswithregion, function(region) {%&gt;
+                    &lt;option value="&lt;%= region.region %&gt;"&gt;&lt;%= region.region %&gt;&lt;/option&gt;
+                &lt;% }); %&gt;
+            &lt;/select&gt;
+        &lt;/div&gt;
+        &lt;div class="select-wrapper"&gt;
+            &lt;select class="filters__input filters-location__country"&gt;
+                &lt;option value=""&gt;Location&lt;/option&gt;
+                &lt;% _.forEach(countries, function(country) { %&gt;
+                  &lt;option value="&lt;%= country %&gt;"&gt;&lt;%= country %&gt;&lt;/option&gt;
+                &lt;% }); %&gt;
+            &lt;/select&gt;
+        &lt;/div&gt;
+        &lt;div class="select-wrapper is-invisible"&gt;
+            &lt;select class="filters__input filters-location__state" disabled&gt;
+                &lt;option value=""&gt;State&lt;/option&gt;
+            &lt;/select&gt;
+        &lt;/div&gt;
+        &lt;div class="select-wrapper"&gt;
+            &lt;% if(typeof(cities) !== 'undefined') { %&gt;
+                &lt;select class="filters__input filters-location__city"&gt;
+                    &lt;option value=""&gt;City&lt;/option&gt;
+                    &lt;% _.forEach(cities, function(city) {%&gt;
+                      &lt;option value="&lt;%= city %&gt;"&gt;&lt;%= city %&gt;&lt;/option&gt;
+                    &lt;% }); %&gt;
+                &lt;/select&gt;
+            &lt;% } else { %&gt;
+                &lt;select class="filters__input filters-location__city" disabled&gt;
+                    &lt;option value=""&gt;City&lt;/option&gt;
+                &lt;/select&gt;
+            &lt;% }; %&gt;
+        &lt;/div&gt;
+    &lt;/fieldset&gt;
+&lt;/script&gt;&lt;script type="text/template" id="filter-team"&gt;
+    &lt;fieldset id="filters-team-id-&lt;%= filterId %&gt;" data-filter-id="&lt;%= filterId %&gt;"&gt;
+        &lt;div class="select-wrapper"&gt;
+            &lt;select class="filters__input filters-team"&gt;
+                &lt;option value=""&gt;Team&lt;/option&gt;
+                &lt;% _.forEach(teams, function(team) {%&gt;
+                    &lt;option value="&lt;%= team %&gt;"&gt;&lt;%= team %&gt;&lt;/option&gt;
+                &lt;% }); %&gt;
+            &lt;/select&gt;
+        &lt;/div&gt;
+    &lt;/fieldset&gt;
+&lt;/script&gt;&lt;script type="text/template" id="filter-type"&gt;
+    &lt;fieldset id="filters-type-id-&lt;%= filterId %&gt;" data-filter-id="&lt;%= filterId %&gt;"&gt;
+        &lt;div class="select-wrapper"&gt;
+            &lt;select class="filters__input filters-type"&gt;
+                &lt;option value=""&gt;Position Type&lt;/option&gt;
+                &lt;% _.forEach(types, function(type) {%&gt;
+                    &lt;option value="&lt;%= type %&gt;"&gt;&lt;%= type %&gt;&lt;/option&gt;
+                &lt;% }); %&gt;
+            &lt;/select&gt;
+        &lt;/div&gt;
+    &lt;/fieldset&gt;
+&lt;/script&gt;&lt;script type="text/template" id="filter-criteria"&gt;
+    &lt;li
+        class="search-result__filter-criteria"
+        data-item-filter-id="&lt;%= obj.filterId %&gt;"
+        data-item-filter="&lt;%= obj.filter %&gt;"&gt;
+        &lt;%= obj.caption %&gt;
+    &lt;/li&gt;
+&lt;/script&gt;        
+        &lt;script async src="https://www.googletagmanager.com/gtag/js?id=UA-51134878-7"&gt;&lt;/script&gt;
+        &lt;script&gt;
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-51134878-7');
+        &lt;/script&gt;
+
+        &lt;script data-obct type="text/javascript"&gt;
+        / DO NOT MODIFY THIS CODE/
+        !function(_window, _document) {
+        var OB_ADV_ID='00968df085a69459a0495b1c0e5f8150d4';
+        if (_window.obApi) {var toArray = function(object) {return Object.prototype.toString.call(object) === '[object Array]' ? object : [object];};_window.obApi.marketerId = toArray(_window.obApi.marketerId).concat(toArray(OB_ADV_ID));return;}
+        var api = _window.obApi = function() {api.dispatch ? api.dispatch.apply(api, arguments) : api.queue.push(arguments);};api.version = '1.1';api.loaded = true;api.marketerId = OB_ADV_ID;api.queue = [];var tag = _document.createElement('script');tag.async = true;tag.src = '//amplify.outbrain.com/cp/obtp.js';tag.type = 'text/javascript';var script = _document.getElementsByTagName('script')[0];script.parentNode.insertBefore(tag, script);}(window, document);
+        obApi('track', 'PAGE_VIEW');
+        &lt;/script&gt;
+
+        
+    &lt;/body&gt;
+&lt;/html&gt;
+</html_body></item>
+</items>

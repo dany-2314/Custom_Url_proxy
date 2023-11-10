@@ -35,7 +35,7 @@ def scrape_and_display():
     return data
    
 if __name__ == "__main__":
-    DEBUG = True
+    DEBUG = False
     if DEBUG is False:
         from waitress import serve
         serve(app, host="0.0.0.0", port=8080)

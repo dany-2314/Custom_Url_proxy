@@ -7,9 +7,9 @@ class MySpider(scrapy.Spider):
     name = 'myspider'
     # start_urls = ['https://mortgagedeliveryguy.ca/join-us/']
 
-    def __init__(self, *args, **kwargs):
-        super(MySpider, self).__init__(*args, **kwargs)
-        self.start_urls = [kwargs.get('url')]
+    def start_requests(self):
+        url = self.url
+        yield scrapy.Request(url, callback=self.parse)
 
     def parse(self, response):
         yield {
